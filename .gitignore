@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+gcs_key.json
+*.pyc
+.DS_Store
+.vscode/
+_Store
+Thumbs.db
+test.py
+migrations/
